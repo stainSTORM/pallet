@@ -1,8 +1,8 @@
 {
   "version": 0,
   "tools": {
-    "imswitch": {
-      "label": "IMSwitch",
+    "arkitekt": {
+      "label": "Arkitekt",
       "path": "index.html"
     }
   }

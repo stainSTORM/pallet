@@ -1,5 +1,5 @@
 package:
-  description: Cockpit link for quick access to imswitch
+  description: Cockpit link for quick access to arkitekt
   maintainers:
     - name: Ethan Li
       email: lietk12@gmail.com
@@ -10,7 +10,7 @@ package:
 deployment:
   provides:
     file-exports:
-      - description: Cockpit tool manifest for imswitch
-        target: overlays/usr/share/cockpit/imswitch/manifest.json
-      - description: Cockpit tool page for imswitch
-        target: overlays/usr/share/cockpit/imswitch/index.html
+      - description: Cockpit tool manifest for arkitekt
+        target: overlays/usr/share/cockpit/arkitekt/manifest.json
+      - description: Cockpit tool page for arkitekt
+        target: overlays/usr/share/cockpit/arkitekt/index.html
